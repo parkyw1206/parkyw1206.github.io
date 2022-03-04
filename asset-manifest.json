@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d1d8ff3.chunk.css",
-    "main.js": "/static/js/main.1437c047.chunk.js",
-    "main.js.map": "/static/js/main.1437c047.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2d19ab4a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2d19ab4a.js.map",
-    "static/js/2.5d5da524.chunk.js": "/static/js/2.5d5da524.chunk.js",
-    "static/js/2.5d5da524.chunk.js.map": "/static/js/2.5d5da524.chunk.js.map",
-    "static/js/3.acd8935f.chunk.js": "/static/js/3.acd8935f.chunk.js",
-    "static/js/3.acd8935f.chunk.js.map": "/static/js/3.acd8935f.chunk.js.map",
+    "main.css": "/static/css/main.dc23c755.chunk.css",
+    "main.js": "/static/js/main.03cdf945.chunk.js",
+    "main.js.map": "/static/js/main.03cdf945.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6f1ac9d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6f1ac9d.js.map",
+    "static/js/2.31d1b07b.chunk.js": "/static/js/2.31d1b07b.chunk.js",
+    "static/js/2.31d1b07b.chunk.js.map": "/static/js/2.31d1b07b.chunk.js.map",
+    "static/js/3.09ffd99c.chunk.js": "/static/js/3.09ffd99c.chunk.js",
+    "static/js/3.09ffd99c.chunk.js.map": "/static/js/3.09ffd99c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5d1d8ff3.chunk.css.map": "/static/css/main.5d1d8ff3.chunk.css.map",
-    "static/js/2.5d5da524.chunk.js.LICENSE.txt": "/static/js/2.5d5da524.chunk.js.LICENSE.txt",
+    "static/css/main.dc23c755.chunk.css.map": "/static/css/main.dc23c755.chunk.css.map",
+    "static/js/2.31d1b07b.chunk.js.LICENSE.txt": "/static/js/2.31d1b07b.chunk.js.LICENSE.txt",
     "static/media/Chart.94acf2fb.svg": "/static/media/Chart.94acf2fb.svg",
     "static/media/Coach.583e66ff.svg": "/static/media/Coach.583e66ff.svg",
+    "static/media/Email.296811bd.svg": "/static/media/Email.296811bd.svg",
     "static/media/font.css": "/static/media/NotoSansKR-Regular.457762ea.otf",
     "static/media/Greeting.e5325310.svg": "/static/media/Greeting.e5325310.svg",
     "static/media/HamburgerIcon.b778cb17.svg": "/static/media/HamburgerIcon.b778cb17.svg",
@@ -24,9 +25,9 @@
     "static/media/ucsd.214cfb08.png": "/static/media/ucsd.214cfb08.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d19ab4a.js",
-    "static/js/2.5d5da524.chunk.js",
-    "static/css/main.5d1d8ff3.chunk.css",
-    "static/js/main.1437c047.chunk.js"
+    "static/js/runtime-main.e6f1ac9d.js",
+    "static/js/2.31d1b07b.chunk.js",
+    "static/css/main.dc23c755.chunk.css",
+    "static/js/main.03cdf945.chunk.js"
   ]
 }
