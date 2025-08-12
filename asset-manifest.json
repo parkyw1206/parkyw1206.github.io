@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.a8d89c0c.css",
-    "main.js": "/static/js/main.eafce385.js",
+    "main.js": "/static/js/main.993a15b9.js",
     "static/js/453.1da030ba.chunk.js": "/static/js/453.1da030ba.chunk.js",
     "static/media/me.jpg": "/static/media/me.78fb7a22f34e46f4d326.jpg",
     "static/media/yp.png": "/static/media/yp.be0b88b561c105626271.png",
+    "static/media/Resume (Youngwoo Park).pdf": "/static/media/Resume (Youngwoo Park).26cdc5d67d5c3737fe34.pdf",
     "static/media/weblate.png": "/static/media/weblate.e5ee80580259f93cbaf7.png",
     "static/media/react.png": "/static/media/react.bafc2a1dcbb5c8d3aefc.png",
     "static/media/css.png": "/static/media/css.1ea2714ae467e3c9c59c.png",
@@ -21,11 +22,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.b933541e0dc6fe514ba1.svg",
     "index.html": "/index.html",
     "main.a8d89c0c.css.map": "/static/css/main.a8d89c0c.css.map",
-    "main.eafce385.js.map": "/static/js/main.eafce385.js.map",
+    "main.993a15b9.js.map": "/static/js/main.993a15b9.js.map",
     "453.1da030ba.chunk.js.map": "/static/js/453.1da030ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8d89c0c.css",
-    "static/js/main.eafce385.js"
+    "static/js/main.993a15b9.js"
   ]
 }
